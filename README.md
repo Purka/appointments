@@ -26,8 +26,9 @@ It doesn't include a lot of important features which supposed to be in the proje
 
 ### Prerequisites
 
--   Node.js
+-   Node.js v18.16
 -   npm (Node Package Manager)
+-   Postgress database set up locally
 
 ### Setup
 
